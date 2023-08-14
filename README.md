@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://media.licdn.com/dms/image/D4D12AQH65p4nl-pdwQ/article-cover_image-shrink_600_2000/0/1678727160673?e=2147483647&v=beta&t=TAwqYPSUgA_5RECimPKZIDzFO6AcxQ0f5IpXhj8MEq0)
 <h1 align="center">Hi 👋, I'm Karan Naik</h1>
 <h3 align="center">Exploring Data Universes and Coding Adventures</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2c4875d4bfefc6a057cb5fef7cb70ebd382a62d8ecbcf1366e7edd090f0d3997/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32303336382f73637265656e73686f74732f343031323233382f646174615f7363656e652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
 
