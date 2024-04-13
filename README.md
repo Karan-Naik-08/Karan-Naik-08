@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/karan naik" target="blank"><img src="https://img.shields.io/twitter/follow/karan naik?logo=twitter&style=for-the-badge" alt="karan naik" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science , Data Analysis**
 
 - 📫 How to reach me **naikaran2003@gmail.com**
