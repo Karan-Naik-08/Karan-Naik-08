@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/D4D12AQH65p4nl-pdwQ/article-cover_image-shrink_600_2000/0/1678727160673?e=2147483647&v=beta&t=TAwqYPSUgA_5RECimPKZIDzFO6AcxQ0f5IpXhj8MEq0)
 <h1 align="center">Hi 👋, I'm Karan Naik</h1>
 <h3 align="center">Exploring Data Universes and Coding Adventures</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=laptop%20image%20with%20transparent%20background&imgurl=https%3A%2F%2Fimages.rawpixel.com%2Fimage_png_800%2FcHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zMV9waG90b19vZl9hX2xhcHRvcF9tb2NrdXBfY2xvc2UtdXBfbWluaW1hbF9pc182M2Q2NzViOS00YjlhLTQ3OWEtOGMyMS1hYWQwMjViNWYzZDIucG5n.png&imgrefurl=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Flaptop%2520png&docid=sTfUuoNkdjGR2M&tbnid=qqS1082Kd7mkRM&vet=12ahUKEwiSg4j0476FAxV42TgGHa64BaIQM3oECBYQAA..i&w=800&h=498&hcb=2&ved=2ahUKEwiSg4j0476FAxV42TgGHa64BaIQM3oECBYQAA">
+<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtInkKEISA09Yoz5uJqkPvhZngvSPxmMmuzJnLHPGreEfbQsHjr3unb94spTGWpBDjfNE&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Karan18760256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan naik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/karan-naik-8ab42323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan naik" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_nk8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_nk8" height="30" width="40" /></a>
 </p>
@@ -26,15 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-naik-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-naik-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-naik-08&" alt="karan-naik-08" /></p>
-
 ###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/karan-naik-08/karan-naik-08/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/karan-naik-08/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
