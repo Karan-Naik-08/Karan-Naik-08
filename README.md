@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/D4D12AQH65p4nl-pdwQ/article-cover_image-shrink_600_2000/0/1678727160673?e=2147483647&v=beta&t=TAwqYPSUgA_5RECimPKZIDzFO6AcxQ0f5IpXhj8MEq0)
 <h1 align="center">Hi 👋, I'm Karan Naik</h1>
 <h3 align="center">Exploring Data Universes and Coding Adventures</h3>
-<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiRI_VhvW1wu1wqQcT3ZDukjIE6nuoAeEsaLFJbYXp5QbdDdxNjZ2m-41veaTYgss3Co&usqp=CAU">
+<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SN6fLP8Rbu0bNUSDdccwJ7jFAnBX2aa86tWVA1R6Ox_pmLlT4rdCqHG1ZufP-5CP1mA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
 
