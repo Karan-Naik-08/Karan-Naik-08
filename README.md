@@ -24,7 +24,7 @@
 
 <h3 align="left">Tools :</h3>
 <p align ="left">
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATableau_Logo.png&psig=AOvVaw0zBRQn-pDHRx3Ds16kxnkC&ust=1727420691293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDG_NyF4IgDFQAAAAAdAAAAABAS" alt="tableau" width="100" height="40"/> </a> </p>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354428%2Ftableau-icon&psig=AOvVaw0UZ5_9j28vOpo39debtXvN&ust=1727420788611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCru4aG4IgDFQAAAAAdAAAAABAE" alt="tableau" width="100" height="40"/> </a> </p>
 
 
 
