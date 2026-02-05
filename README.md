@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
 
-- 🌱 I’m currently learning **Data Science , Data Analysis**
+- 🌱 Data Analyst and Machine Learning Engineer 1+ year of experience**
 
 - 📫 How to reach me **naikaran08@gmail.com**
 
