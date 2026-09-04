@@ -3,11 +3,16 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst+-+ML+%26+Quantitative+Systems" alt="Typing SVG" />
 </p>
 
-- 🔭 Currently working as **Data Analyst - ML & Quantitative Systems** at **Big Rattle Technologies**
+- 🔭 Currently working as **Data Analyst, ML & Quantitative Systems** at **Big Rattle Technologies**
 - 🌱 Focused on building computer vision pipelines and automating large-scale image processing workflows
 - 📫 Reach me at **naikaran08@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
+
+<h3 align="left">🚀 Projects :</h3>
+
+- **Algo-Trading** — real-time algorithmic trading research and execution system built on the Dhan API; strategies move through research → backtest → paper trading → live trading across 900+ NSE stocks. *(private repo)*
+- **ProInvestor** — systematic investing research for Indian equities (NSE/BSE), with a technical track (Dhan OHLCV, ranking, backtesting, Streamlit) and a fundamental track (filings scrape, quality gating, percentile ranking). *(private repo)*
 
 <h3 align="left">Data Science & Machine Learning :</h3>
 <p align="left">
