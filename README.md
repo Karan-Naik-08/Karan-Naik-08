@@ -5,14 +5,10 @@
 
 - 🔭 Currently working as **Data Analyst, ML & Quantitative Systems** at **Big Rattle Technologies**
 - 🌱 Focused on building computer vision pipelines and automating large-scale image processing workflows
+- 📈 Interested in algorithmic trading and systematic investing models — building research-to-live-trading pipelines with the Dhan API
 - 📫 Reach me at **naikaran08@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-naik-08&label=Profile%20views&color=0e75b6&style=flat" alt="karan-naik-08" /> </p>
-
-<h3 align="left">🚀 Projects :</h3>
-
-- **Algo-Trading** — real-time algorithmic trading research and execution system built on the Dhan API; strategies move through research → backtest → paper trading → live trading across 900+ NSE stocks. *(private repo)*
-- **ProInvestor** — systematic investing research for Indian equities (NSE/BSE), with a technical track (Dhan OHLCV, ranking, backtesting, Streamlit) and a fundamental track (filings scrape, quality gating, percentile ranking). *(private repo)*
 
 <h3 align="left">Data Science & Machine Learning :</h3>
 <p align="left">
